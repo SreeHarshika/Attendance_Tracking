@@ -4,15 +4,15 @@ A python GUI integrated attendance system using face recognition to take attenda
 In this python project, I have made an attendance system which takes attendance by using face recognition technique. I have also intergrated it with GUI (Graphical user interface) so it can be easy to use by anyone. GUI for this project is also made on python using tkinter.
 
 REQUIREMENTS NEEDED:
-pip install tk-tools
-pip install opencv-contrib-python
-pip install datetime
-pip install pytest-shutil
-pip install python-csv
-pip install numpy
-pip install pillow 
-pip install pandas
-pip install times
+1)pip install tk-tools
+2)pip install opencv-contrib-python
+3)pip install datetime
+4)pip install pytest-shutil
+5)pip install python-csv
+6)pip install numpy
+7)pip install pillow 
+8)pip install pandas
+9)pip install times
 
 TECHNOLOGY USED:
 1) tkinter for whole GUI
